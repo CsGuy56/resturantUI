@@ -1,3 +1,12 @@
+This is frontend UI for the resturant build using react as a frame work 
+To run this project kindly do the  following
+
+1. open the files in the IDE like visual studio code
+2. now open terminal and run two commands
+   a. npm install
+   b. npm run
+3. Now the project will open on your PC in your browser  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
